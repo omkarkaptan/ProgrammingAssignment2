@@ -3,7 +3,7 @@
 
 ## Write a short comment describing this function
 
-# makeCacheMatrix function will 
+# makeCacheMatrix function will contain
 # getter and setter methods for the matrix and the inverse stored in the cache
 
 makeCacheMatrix <- function(x = matrix()) {
